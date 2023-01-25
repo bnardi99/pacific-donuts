@@ -1,0 +1,42 @@
+body {
+    height: 100%;
+    font-family: Montserrat, sans-serif;
+}
+
+.jumbotron {
+    background-color: #f8f9fa;
+}
+
+.contact h1 {
+    font-family: Fredoka One, cursive;
+    text-align: center;
+    color: rgb(239,83,100);
+    text-transform: uppercase;
+    margin-bottom: 3%;
+}
+
+.contact h2 {
+    font-size: 1.3em;
+    text-align: center;
+    font-weight: bold;
+}
+
+.contact p {
+    text-align: center;
+}
+
+.fa-phone {
+    color: #59c3c3;
+}
+
+.fa-clock {
+    color: #59c3c3;
+}
+
+.btn {
+    margin-bottom: 3%;
+}
+
+footer {
+    clear: both;
+}

@@ -1,0 +1,28 @@
+body {
+    height: 100%;
+    font-family: Montserrat, sans-serif;
+}
+
+.listing h1 {
+    font-family: Fredoka One, cursive;
+    text-align: center;
+    color: rgb(239,83,100);
+    text-transform: uppercase;
+}
+
+.row {
+    padding: 2%;
+    color: rgb(0, 92, 64);
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    display: flex;
+}
+
+.breadcrumb {
+    background-color: #f8f9fa;
+}
+
+footer {
+    clear: both;
+}

@@ -1,0 +1,69 @@
+body {
+    height: 100%;
+    font-family: Montserrat, sans-serif;
+}
+
+.location h1 {
+    font-family: Fredoka One, cursive;
+    text-align: center;
+    color: rgb(239,83,100);
+    text-transform: uppercase;
+}
+
+.directions {
+    text-align: center;
+    font-size: 1em;
+}
+
+.location h3 {
+    margin-top: 3%;
+    font-family: Fredoka One, cursive;
+    font-size: 1.50em;
+    color: rgb(239,83,100);
+    text-transform: uppercase;
+}
+
+.location p {
+    font-size: 1em;
+
+}
+
+.features {
+    margin-top: 3%;
+    font-family: Fredoka One, cursive;
+    font-size: 1em;
+    color: rgb(239,83,100);
+    text-transform: uppercase;
+}
+
+li {
+    list-style-type: none;
+}
+
+.fa-mobile-alt {
+    color: #59c3c3;
+}
+
+.fa-wifi {
+    color: #59c3c3;
+    margin-left: -5px;
+}
+
+.fa-car {
+    color: #59c3c3;
+    margin-left: -3px;
+}
+
+.fa-parking {
+    color: #59c3c3;
+    margin-left: -2px;
+}
+
+.map {
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+footer {
+    clear: both;
+}
